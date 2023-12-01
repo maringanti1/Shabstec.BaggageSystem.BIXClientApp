@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Shabstec.BaggageSystem.BIXClientApp
+build_property.ProjectDir = C:\Shabbstech\BIXMessageService\BIXClientApp_RabbitMQ\BIXClientApp_RabbitMQ\

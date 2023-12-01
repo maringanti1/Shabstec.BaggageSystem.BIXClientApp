@@ -1,0 +1,16 @@
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.AssemblyReference.cache
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfoInputs.cache
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfo.cs
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CoreCompileInputs.cache
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.exe
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.deps.json
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.json
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.dev.json
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.dll
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.pdb
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CopyComplete
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.dll
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.pdb
+C:\Repository\MQTT_PubSub\ClientApp\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.genruntimeconfig.cache
